@@ -26,7 +26,7 @@ Run `npx hint .` to test for html linting check
 Run `npx stylelint "**/*.{css,scss}"` to test for css linting check 
 
 
-The app is deployed using GitHub pages. You can view it using the 'live demo' above.
+The app is not deployed since it is only a boilerplate.
 
 
 
