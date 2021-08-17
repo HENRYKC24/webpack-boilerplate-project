@@ -4,27 +4,20 @@
 # webpack-boilerplate-project
 > A project to demonstrate my understanding of webpack at Microverse Inc. Full Stack Development program
 
-![screenshot](./assets/images/app_screenshot.png)
-
-This is my portfolio website to showcase my skills and projects I have done as a software engineer. It is motivate by my Microverse program start on the 5th, July, 2021.
 
 ## Built With
 
 - HTML
 - CSS
 - JavaScript
-
-## Live Demo
-
-[Live Demo Link](https://henrykc24.github.io/my-portfolio/)
-
+- Webpack
 
 ## Getting Started
 
 
 To get a local copy up and running follow these simple example steps.
 
-Clone the repo with `git clone https://github.com/HENRYKC24/my-portfolio.git`
+Clone the repo with `git clone https://github.com/HENRYKC24/webpack-boilerplate-project`
 
 Run `npm install` from the command line
 
@@ -50,7 +43,7 @@ The app is deployed using GitHub pages. You can view it using the 'live demo' ab
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/HENRYKC24/my-portfolio/issues/).
+Feel free to check the [issues page](https://github.com/HENRYKC24/webpack-boilerplate-project/issues).
 
 ## Show your support
 
@@ -63,4 +56,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
